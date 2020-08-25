@@ -131,7 +131,7 @@ This project was developed at the Rocketseat GoStack Bootcamp with the following
 <details>
   <summary><span style="color:red">DELETE </span>/{id}</summary>
 
-  <h3 style="color:green"> Response 204 No content </h3>
+  {c:green}<h3> Response 204 No content </h3>{/c}
 </details>
 
 <!--END_SECTION:activity-->
