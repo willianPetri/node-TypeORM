@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 Tecnologies
+## 🚀 Technologies
 
 This project was developed at the Rocketseat GoStack Bootcamp with the following technologies:
 
