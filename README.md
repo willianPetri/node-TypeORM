@@ -46,7 +46,7 @@ This project was developed at the Rocketseat GoStack Bootcamp with the following
 <!--START_SECTION:activity-->
 <details>
 
-<summary style="color:green">GET</summary>
+<summary>GET</summary>
 
    ### Response
 
@@ -73,7 +73,7 @@ This project was developed at the Rocketseat GoStack Bootcamp with the following
 </details>
 
 <details>
-  <summary style="color:blue">POST</summary>
+  <summary>POST</summary>
 
   ### Request Body
 
@@ -98,7 +98,7 @@ This project was developed at the Rocketseat GoStack Bootcamp with the following
   }
   ```
 
-  <h3 style="color:green"> Response 200 </h3>
+  <h3> Response 200 </h3>
 
   ```json
     {
@@ -118,7 +118,7 @@ This project was developed at the Rocketseat GoStack Bootcamp with the following
     }
   ```
 
-<h3 style="color:red"> Response 500 Internal Server Error </h3>
+<h3> Response 500 Internal Server Error </h3>
 
   ```json
     {
@@ -129,9 +129,9 @@ This project was developed at the Rocketseat GoStack Bootcamp with the following
 </details>
 
 <details>
-  <summary><span style="color:red">DELETE </span>/{id}</summary>
+  <summary><span>DELETE </span>/{id}</summary>
 
-  {c:green}<h3> Response 204 No content </h3>{/c}
+  <h3> Response 204 No content </h3>
 </details>
 
 <!--END_SECTION:activity-->
